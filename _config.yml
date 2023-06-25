@@ -50,9 +50,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ida_stidsborg@hotmail.com"
+  email: "ida@ismeta.dk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: https://facebook.com/profile.php?id=100092483804878
  # github: daattali
  # twitter: daattali
  # patreon: DeanAttali
@@ -88,7 +88,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
