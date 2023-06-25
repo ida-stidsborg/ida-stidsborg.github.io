@@ -4,13 +4,18 @@ title: Om mig
 subtitle: Hvad metakognitiv terapi er
 ---
 
-Mit navn er Ida stidsborg. I have the following qualities:
+Mit navn er Ida stidsborg. Jeg er uddannet metakognitiv terapeut, og tilbyder behandlingforløb til alle interesserede.
+Hvis du kan genkende dig selv i nogle af de følgende udsagn, kan metakognitiv terapi muligvis være for dig:
+- Jeg mistrives
+- Jeg føler mig stresset
+- Jeg har OCD/PTSD/angst/søvnproblemer
+- Jeg har lavt selvværd
+Eller hvis du har andre psykiske problemer, så kontakt mig for en uforpligtende samtale om hvordan metakognitiv terapi kan hjælpe dig.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Jeg bor i Sæby, og blev uddannet metakognitiv behandler via Cektos i 2022.
+Samtalerne afholdes enten på min privatadresse i Sæby, hjemme hos dig, eller online.
+
+MCTI®terapeut Ida Stidsborg
